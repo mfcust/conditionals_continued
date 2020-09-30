@@ -1,4 +1,4 @@
-# Else statements
+# else statements
 
 Consider the following conditional statement and code:
 ```
