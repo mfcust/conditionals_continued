@@ -8,7 +8,7 @@
 # 2a) Ask the user "What's your favorite number?" and store that as a variable called number. The response you type in will be a string that you will have to convert into
 # either a float or int. You can do this in your variable declaration statement by using the float() or int() function wrapped around your value. For example, if I had
 #a variable x that was equal to the string value '5', then in order to change the string value '5' to a float, I could convert it by saying x = float('5'). For this
-question, you need to have everything inside your float() or int() function, including your input() function (e.g. x = float(input("Question")))
+#question, you need to have everything inside your float() or int() function, including your input() function (e.g. x = float(input("Question")))
 
 
 
@@ -28,7 +28,7 @@ question, you need to have everything inside your float() or int() function, inc
 '''
 x = 100
 
-if x >50:
+if x > 50:
   if x == 100:
     print("I like the number 100")
     
@@ -53,7 +53,7 @@ else:
 
 # 4)Nested conditional statements are when you have if, elif and else statements inside of other if, elif and else statements. Create a program similar to the one in
 #question 3 where you first ask the user "Do you have a favorite food?". If they answer yes, then ask the question "What is your favorite food?" and nest an if, 2 elifs and an else
-inside with different print functions depending on the answer to the second question. If they answer no, then print something in your original else statement.
+#inside with different print functions depending on the answer to the second question. If they answer no, then print something in your original else statement.
 
 
 
