@@ -39,7 +39,7 @@ elif color =="red":
 else:
   print("That's cool! But I like Green more!")
 ```
-As you can see, you can have multiple elif statements that specify othe rconditions. They all depend on the other, so if one is False then Python moves to the next one. If one is True, then Python doesn't bother looking at the rest.
+As you can see, you can have multiple elif statements that specify other conditions. They all depend on the other, so if one is False then Python moves to the next one. If one is True, then Python doesn't bother looking at the rest.
 
 Navigate into the Python file to practice using if, elif and else statements!
 
