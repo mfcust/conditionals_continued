@@ -36,7 +36,7 @@ if x > 50:
     print("200 is twice as good as 100")
     
   else:
-    print("All these numbers are ok I guess."
+    print("All these numbers are ok I guess.")
     
 else:
   print("These numbers are too small")
